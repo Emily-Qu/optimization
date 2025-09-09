@@ -19,3 +19,4 @@ config: {'out_dir': 'out_openwebtext', 'eval_interval': 1000, 'log_interval': 10
 2025-09-05 16:28:28,930 INFO    MainThread:402797 [wandb_run.py:_redirect():2375] Wrapping output streams.
 2025-09-05 16:28:28,930 INFO    MainThread:402797 [wandb_run.py:_redirect():2398] Redirects installed.
 2025-09-05 16:28:28,931 INFO    MainThread:402797 [wandb_init.py:init():1075] run started, returning control to user process
+2025-09-05 17:49:15,287 INFO    MsgRouterThr:402797 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 1 handles.
